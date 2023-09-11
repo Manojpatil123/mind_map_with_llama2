@@ -25,7 +25,7 @@ pypdf
 html2text
 trafilatura
 matplotlib
-IPython==7.34.0
+IPython==8.10.0
 pypdf
 python-docx
 python-pptx
